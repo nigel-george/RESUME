@@ -1,6 +1,6 @@
 # Hi, I'm Nigel George 👋 
 
-### Data Engineer | Backend Engineer | Python & SQL Specialist
+### Data Engineer | Backend Engineer | Python · SQL · dbt · Airflow · AWS
 📍 Based in Winnipeg, MB (Open to Remote, Hybrid, & Relocation across Canada)  
 🇨🇦 Canadian Permanent Resident (PR) | 🚗 Valid Canadian Driving Licence
 
