@@ -1,10 +1,14 @@
 # Hi, I'm Nigel George 👋 
 
-### Analytical Engineer | Data Analyst | Python & SQL Specialist
-📍 Based in Toronto, ON (Open to Remote, Hybrid, & Relocation across Canada)  
+### Data Engineer | Backend Engineer | Python & SQL Specialist
+📍 Based in Winnipeg, MB (Open to Remote, Hybrid, & Relocation across Canada)  
 🇨🇦 Canadian Permanent Resident (PR) | 🚗 Valid Canadian Driving Licence
 
-I am a data professional with **5 years of backend engineering experience**, now specializing in **Data Analytics and Analytics Engineering**. I bridge the gap between core software engineering and analytical depth—turning messy, large-scale production data into high-performance data warehouses and actionable business intelligence.
+Data and backend engineer with 5 years of production Python and SQL experience, relocating to Winnipeg in July 2026. Canadian Permanent Resident.
+
+Currently deepening my cloud stack: Airflow for orchestration, AWS (S3, RDS, Lambda) for infrastructure, and Snowflake as a cloud data warehouse target — skills I'm building into a new production project launching in July 2026.
+
+Open to data engineer, analytics engineer, and backend developer roles in Winnipeg and remote-Canada positions. Happy to connect with engineers, hiring managers, and data teams.
 
 ---
 
